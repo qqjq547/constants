@@ -1,0 +1,17 @@
+[
+  {
+    "pkgName": "com.antwin.app",
+    "versionName": "1.0.0",
+    "targetUrl": ""
+  },
+  {
+    "pkgName": "com.antwin.app1",
+    "versionName": "1.0.0",
+    "targetUrl": ""
+  },
+  {
+    "pkgName": "com.antwin.app3",
+    "versionName": "1.0.0",
+    "targetUrl": ""
+  }
+]
