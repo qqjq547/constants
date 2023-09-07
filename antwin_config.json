@@ -1,17 +1,17 @@
 [
   {
-    "pkgName": "com.antwin.app",
+    "pkgName": "com.snake.game",
     "versionName": "1.0.0",
-    "targetUrl": ""
+    "targetUrl": "https://antwin.com/"
   },
   {
     "pkgName": "com.antwin.petclinic",
     "versionName": "1.0.0",
-    "targetUrl": ""
+    "targetUrl": "https://antwin.com/"
   },
   {
     "pkgName": "com.antwin.app3",
     "versionName": "1.0.0",
-    "targetUrl": ""
+    "targetUrl": "https://antwin.com/"
   }
 ]
